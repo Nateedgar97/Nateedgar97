@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
+    - text: "Resume"
+      href: cv.html
 output:
   html_document:
     theme: darkly
