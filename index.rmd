@@ -9,5 +9,5 @@ title: "About Me"
 I'm currently a 3rd year Geography major at UC Santa Barbara and enjoy swimming, surfing, and hanging out with close friends.  I also like to skecth and draw at times and love anything sweet.  I know it's not much right now, but be sure to check back later!  It's nice to meet you all! :)
 
 <center>
-![](img/Nate London Pic.JPG){width="40%"}
+![](img/Nate London Pic.JPG){width="40%"}               ![](img/Nate Beach Pic.JPG){width="40%"}  
 </center>
