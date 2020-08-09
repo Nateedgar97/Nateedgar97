@@ -1,0 +1,13 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Nate Edgar.
+</center>
+  
+I'm currently a 3rd year Geography major at UC Santa Barbara and enjoy swimming, surfing, and hanging out with close friends. I also like to skecth and draw at times and love anything sweet. It's nice to meet you all! :)
+
+<center>
+![](img/Nate London Pic.JPG){width="40%"}
+</center>
