@@ -28,6 +28,6 @@ In this assignment we built a static users site using Github Pages which also in
 
 
 
-## [Lab 6: Terrain Analysis]()
+## [Lab 6: Terrain Analysis](https://nateedgar97.github.io/geog-176A-labs/lab-06.html)
 
 

@@ -1,7 +1,7 @@
 name: "Nate's website"
 output_dir: "."
 navbar:
-  title: "Nate Edgar"
+  title: "[Nate Edgar](https://github.com/Nateedgar97)"
   left:
     - text: "Home"
       icon: fa-superpowers
