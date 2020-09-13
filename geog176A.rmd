@@ -5,29 +5,29 @@ title: Nate’s GIS Projects
 As apart of my 1st GIS class I took at the UC Santa Barbara in the summer of 2020, I was able to get some experience with the GIS software RStudios and with that I have created this specific webpage to keep track of all the the assignments we have completed throughout the quarter. Please enjoy! :) 
 
 
-## Lab 1: (Making the Website!)
+## Lab 1: Data Science Workflows (Making the Website!)
 
 In this assignment we built a static users site using Github Pages which also included a github repo for access to all the code.
 
-## [Lab 2:...](https://nateedgar97.github.io/geog-176A-labs/lab-02.html)
+## [Lab 2: Data Wrangling](https://nateedgar97.github.io/geog-176A-labs/lab-02.html)
 
 
 
 
-## [Lab 3:...](https://nateedgar97.github.io/geog-176A-labs/lab-03.html)
+## [Lab 3: Projections, Distances, and Mapping](https://nateedgar97.github.io/geog-176A-labs/lab-03.html)
 
 
 
 
-## [Lab 4:...](https://nateedgar97.github.io/geog-176A-labs/lab-04.html)
+## [Lab 4: Tesselations, Spatial Joins, and Point-in-Polygon](https://nateedgar97.github.io/geog-176A-labs/lab-04.html)
 
 
 
-## [Lab 5:...](https://nateedgar97.github.io/geog-176A-labs/lab-05.html)
+## [Lab 5: Raster Analysis](https://nateedgar97.github.io/geog-176A-labs/lab-05.html)
 
 
 
 
-## [Lab 6:...]()
+## [Lab 6: Terrain Analysis]()
 
 
