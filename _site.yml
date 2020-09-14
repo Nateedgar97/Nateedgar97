@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       icon: fa-superpowers
       href: index.html
-    - text: "GIS Work"
+    - text: "GIS Labs"
       icon: fa-share-alt
       menu:
         - text: "Lab 2"
@@ -19,9 +19,12 @@ navbar:
           href: https://nateedgar97.github.io/geog-176A-labs/lab-05.html
         - text: "Lab 6"
           href: https://nateedgar97.github.io/geog-176A-labs/lab-06.html
+    - text: "GIS Labs Summary"
+      icon: fa-thumbtack
+      href: geog176A.html
     - text: "Other GIS Work"
       icon: fa-share-alt
-      href: geog176A.html
+      href: otherGISwork.html
     - text: "Resume"
       icon: fa-user-circle
       href: cv.html
