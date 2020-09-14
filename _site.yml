@@ -21,7 +21,7 @@ navbar:
           href: https://nateedgar97.github.io/geog-176A-labs/lab-06.html
     - text: "Other GIS Work"
       icon: fa-share-alt
-      href: geog176A.rmd
+      href: geog176A.html
     - text: "Resume"
       href: cv.html
 output:
