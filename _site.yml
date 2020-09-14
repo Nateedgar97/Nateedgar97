@@ -7,7 +7,18 @@ navbar:
       icon: fa-superpowers
       href: index.html
     - text: "GIS Work"
-      href: geog176A.html
+      icon: fa-book
+      menu:
+        - text: "Lab 2"
+          href: https://nateedgar97.github.io/geog-176A-labs/lab-02.html
+        - text: "Lab 3"
+          href: https://nateedgar97.github.io/geog-176A-labs/lab-03.html
+        - text: "Lab 4"
+          href: https://nateedgar97.github.io/geog-176A-labs/lab-04.html
+        - text: "Lab 5"
+          href: https://nateedgar97.github.io/geog-176A-labs/lab-05.html
+        - text: "Lab 6"
+          href: https://nateedgar97.github.io/geog-176A-labs/lab-06.html
     - text: "Resume"
       href: cv.html
 output:
