@@ -1,7 +1,7 @@
 name: "Nate's website"
 output_dir: "."
 navbar:
-  title: "[Nate Edgar](https://github.com/Nateedgar97)"
+  title: "Nate Edgar"
   left:
     - text: "Home"
       icon: fa-superpowers
@@ -23,7 +23,13 @@ navbar:
       icon: fa-share-alt
       href: geog176A.html
     - text: "Resume"
+      icon: fa-user-circle
       href: cv.html
+  right:
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/Nateedgar97
+
 output:
   html_document:
     theme: darkly
