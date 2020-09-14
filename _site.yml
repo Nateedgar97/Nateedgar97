@@ -22,7 +22,6 @@ navbar:
     - text: "Other GIS Work"
       icon: fa-share-alt
       href: geog176A.rmd
-
     - text: "Resume"
       href: cv.html
 output:
