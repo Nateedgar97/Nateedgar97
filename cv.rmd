@@ -2,11 +2,11 @@
 title: Nate’s CV
 ---
 
-# Education (Graduation Year)
+# Education: (Graduation Year)
 
 **Graduation Year:** 2021
 
-# Experience (History of Schooling)
+# Experience: (History of Schooling)
 
 **Fall 2019:** Started attending UC Santa Barbara & am currently working on my Geography degree with an emphasis in GIS. 
 
@@ -15,3 +15,15 @@ title: Nate’s CV
 **Fall 2017:** Stated attending community college. (Pasadena City College)
 
 **Summer 2017:** Graduated from highschool. (Aveson)
+
+
+
+# My Resume:
+
+<center>
+![](img/resumepg1.png){width=50%}
+
+
+
+![](img/resumepg2.png){width=50%}
+</center>
