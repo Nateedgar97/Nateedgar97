@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       icon: fa-superpowers
-      href: index.html
+      href: https://nateedgar97.github.io
     - text: "GIS Labs"
       icon: fa-share-alt
       menu:
