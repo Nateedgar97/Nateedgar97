@@ -11,7 +11,7 @@
 
 
 
-<title>Nate’s GIS Projects</title>
+<title>Labs Summary</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -345,7 +345,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Nate’s GIS Projects</h1>
+<h1 class="title toc-ignore">Labs Summary</h1>
 
 </div>
 
@@ -353,22 +353,63 @@ $(document).ready(function () {
 <p>As apart of my 1st GIS class I took at the UC Santa Barbara in the summer of 2020, I was able to get some experience with the GIS software RStudios and with that I have created this specific webpage to keep track of all the the assignments we have completed throughout the quarter. Please enjoy! :)</p>
 <div id="lab-1-data-science-workflows-making-the-website" class="section level2">
 <h2>Lab 1: Data Science Workflows (Making the Website!)</h2>
-<p>In this assignment we built a static users site using Github Pages which also included a github repo for access to all the code.</p>
+<p>“This week we used Rmarkdown and Github Pages to author a static website. The skills we learned included Rmarkdown formating, project organization, and a brief introduction to HTML/CSS. The ultimate goal was to improve our understanding of local/remote datasets and to build the tools for communicating our work in a reproducible, sharable way” (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to open a user site on Github and with this, went on to create my own site to store all of my other labs in.</li>
+<li>I was also able to practice attaching urls and image files in this assignment.</li>
+</ul>
 </div>
 <div id="lab-2-data-wrangling" class="section level2">
 <h2><a href="https://nateedgar97.github.io/geog-176A-labs/lab-02-nate--new-.html">Lab 2: Data Wrangling</a></h2>
+<p>“Here we practiced data wrangling and visualization skills using real-time COVID-19 data maintained by the New York Times. Emphasis was placed on data.frame manipulation and joining them. We used two sets of data with cumulative counts of coronavirus cases and deaths: one with our most current numbers for each geography and another with historical data showing the tally for each day for each geography. The scale of these sets follow U.S., states and counties. We created layered graphs consisting of stacked individual bars and an averaged line” (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to load in raw data to not only filter, but also to manipulate as well as analyze.</li>
+<li>I was taught how to cross reference varying data frames to eventually get more specific data.</li>
+<li>I was taught how to join varying data frames to eventually get more specific data.</li>
+<li>I was taught how to display relevant data in both tables and figures.</li>
+</ul>
 </div>
 <div id="lab-3-projections-distances-and-mapping" class="section level2">
 <h2><a href="https://nateedgar97.github.io/geog-176A-labs/lab-03.html">Lab 3: Projections, Distances, and Mapping</a></h2>
+<p>“This week we worked with simple feature objects and geos measures. Emphasis was placed on feature aggregations (combines/unions); coordinate references systems; and distance measurements. We worked to replicate the ACLU assessment that 2/3 of the USA population lives within the 100 mile “Border Zone” where 4th amendment rights are being questioned" (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to make simple feature objects (sf objects) of the United States using both R packages as well as CSV files.</li>
+<li>I was taught how to calculate multiply varying distances from each other such as from US Cities to US National Border, US Cities to states borders, US Cities to Mexican border and US Cities to Canadian border.</li>
+<li>I was taught how to plot all these findings using the ggplot tool.</li>
+</ul>
 </div>
 <div id="lab-4-tesselations-spatial-joins-and-point-in-polygon" class="section level2">
 <h2><a href="https://nateedgar97.github.io/geog-176A-labs/lab-04.html">Lab 4: Tesselations, Spatial Joins, and Point-in-Polygon</a></h2>
+<p>“This week we worked with the National Dams Inventory. Questions of geometry simplification, centroid generation, and tessellations were raised. We ended up using our tessellations to explore the distribution of dams (and dam purpose) across the USA and challenges with the MAUP” (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to map the surface of the Contiguous United States with the original counties boundaries, voronoi tessellation, triangulated tessellation, square grid and hexagonal grid.</li>
+<li>I was taught how to create not only functions but also point-in-polygon functions in order to process all the data more efficiently. I was taught how by using data from the National Dam Inventory, I could go on to analyze purposes of dams across CONUS.</li>
+</ul>
 </div>
 <div id="lab-5-raster-analysis" class="section level2">
 <h2><a href="https://nateedgar97.github.io/geog-176A-labs/lab-05.html">Lab 5: Raster Analysis</a></h2>
+<p>“This week we worked with multiband raster files to detect and analyze a flood event near Palo, Iowa. We completed the entire workflow from data aquisition through analysis in R and were able to see how the raster data structure allows us to draw meaningful conclusions from the data. This kind of work goes on regularly and is part of a couple national efforts (NOAA, USGS, FirstStreet, FEMA) to generate flood inundation libraries that contribute to better extraction and classification of real-time flood events, resource allocation during events, and damage assessments post events” (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to find the area of interest (AOI) by filtering data, generating a buffer zone and bounding the area using a bounding box (bbox).</li>
+<li>I was taught how to find both data and images using online databases.</li>
+<li>I was taught how to manipulate and look over landsat imagery as well as how to make threshold indexes.</li>
+<li>I was taught how to use the k-means clustering algorithm to organize raster cells by similar spectral properties.</li>
+</ul>
 </div>
 <div id="lab-6-terrain-analysis" class="section level2">
 <h2><a href="https://nateedgar97.github.io/geog-176A-labs/lab-06.html">Lab 6: Terrain Analysis</a></h2>
+<p>“This week we estimated the number of buildings impacted in the 2017 Santa Barbara flood event along Mission Creek using data from web APIs (NLDI, OSM, AWS Elevation tiles). We used the whitebox frontend to generate a Height Above Nearest Drainage layer for the Mission Creek watershed, and converted this layer into a Flood Inudation Map (FIM) Library complete with structural damage assessment” (Mike Johnson).</p>
+<p>In short:</p>
+<ul>
+<li>I was taught how to look over a flood risk by first making sure to load in our boundary, elevation, building, and river network data.</li>
+<li>I was taught how to create terrain analysis by creating both a hillshade and Height Above Nearest Drainage (HAND) raster.</li>
+<li>I was taught how to look at the impact of the 2017 flood for the surrounding area by using the loaded data.</li>
+</ul>
 </div>
 
 
