@@ -9,7 +9,7 @@ As apart of my 1st GIS class I took at the UC Santa Barbara in the summer of 202
 
 In this assignment we built a static users site using Github Pages which also included a github repo for access to all the code.
 
-## [Lab 2: Data Wrangling](https://nateedgar97.github.io/geog-176A-labs/lab-02.html)
+## [Lab 2: Data Wrangling](https://nateedgar97.github.io/geog-176A-labs/lab-02-nate--new-.html)
 
 
 
